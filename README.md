@@ -29,4 +29,5 @@ The backend exposes a clean REST API for full CRUD operations:
 
 Since this is a backend-focused repository, the functionality is verified via Postman and MongoDB Atlas:
 
-<img width="700" height="780" alt="postman 1" src="https://github.com/user-attachments/assets/c810d0a6-0465-4049-a1c4-dbef336fa49f" />
+<img width="1480" height="780" alt="table" src="https://github.com/user-attachments/assets/9b33b35d-25cd-42b6-89f7-93b93bbe1304" />
+
